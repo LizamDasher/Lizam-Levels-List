@@ -1,17 +1,17 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Black Death",
+    "author": "Lizam19",
+    "creators": ["Lizam19", "None", "None"],
+    "verifier": "None",
+    "verification": "None",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "user": "None",
+            "link": "None",
+            "percent": 0,
             "hz": 360
         }
     ]
