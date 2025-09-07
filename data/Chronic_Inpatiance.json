@@ -1,0 +1,17 @@
+{
+    "id": 117567480,
+    "name": "Chronic Inpatiance",
+    "author": "Lizam19",
+    "creators": ["Lizam19", "None", "None"],
+    "verifier": "None",
+    "verification": "None",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "None",
+            "link": "None",
+            "percent": 100,
+            "hz": 60        }
+    ]
+}
